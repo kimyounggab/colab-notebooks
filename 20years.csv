@@ -11,5 +11,5 @@ number,PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Em
 89,90,0,3,"Celotti, Mr. Francesco",male,24,0,0,343275,8.05,NaN,S
 90,91,0,3,"Christmann, Mr. Emil",male,29,0,0,343276,8.05,NaN,S
 91,92,0,3,"Andreasson, Mr. Paul Edvin",male,20,0,0,347466,7.8542,NaN,S
-93,94,0,3,"Dean, Mr. Bertram Frank",male,26,1,2,C.A. 2315,20.575,NaN,S
+93,94,0,1,"Dean, Mr. Bertram Frank",female,26,1,2,C.A. 2315,20.575,NaN,S
 97,98,1,1,"Greenfield, Mr. William Bertram",male,23,0,1,PC 17759,63.3583,D10 D12,C
